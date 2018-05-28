@@ -1,1 +1,1 @@
-sclackbot==0.5.2
+slackbot==0.5.2
